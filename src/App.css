@@ -1,0 +1,17 @@
+.pageContainer {
+  min-height: 100vh;
+}
+
+.pageDataContainer {
+  margin: 0 auto;
+  max-width: 800px;
+  width: 100%;
+  min-width: 320px;
+  padding: 0 10px;
+  display: flex;
+}
+
+.mainContainer {
+  width: 75%;
+  padding: 20px 0 20px 20px;
+}
