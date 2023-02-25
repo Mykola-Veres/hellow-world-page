@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "description": "Ноутбуки",
+    "imageSrc": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-laptop",
+    "iconColor": "#d71b3b"
+  },
+  {
+    "id": 2,
+    "description": "Смартфони",
+    "imageSrc": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-mobile-button",
+    "iconColor": "#e8d71e"
+  },
+  {
+    "id": 3,
+    "description": "Побутова техніка",
+    "imageSrc": "https://images.pexels.com/photos/1450907/pexels-photo-1450907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-blender",
+    "iconColor": "#16acea"
+  },
+  {
+    "id": 4,
+    "description": "Товари для дому",
+    "imageSrc": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-couch",
+    "iconColor": "#4203c9"
+  },
+  {
+    "id": 5,
+    "description": "Інструменти",
+    "imageSrc": "https://images.pexels.com/photos/210881/pexels-photo-210881.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-wrench",
+    "iconColor": "#d71b3b"
+  },
+  {
+    "id": 6,
+    "description": "Сантехніка",
+    "imageSrc": "https://images.pexels.com/photos/5240607/pexels-photo-5240607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-bath",
+    "iconColor": "#e8d71e"
+  },
+  {
+    "id": 7,
+    "description": "Cад і город",
+    "imageSrc": "https://images.pexels.com/photos/238377/pexels-photo-238377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-sun-plant-wilt",
+    "iconColor": "#16acea"
+  },
+  {
+    "id": 8,
+    "description": "Спорт",
+    "imageSrc": "https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-baseball",
+    "iconColor": "#4203c9"
+  },
+  {
+    "id": 9,
+    "description": "Одяг та взуття",
+    "imageSrc": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-shirt",
+    "iconColor": "#d71b3b"
+  },
+  {
+    "id": 10,
+    "description": "Краса та здоров’я",
+    "imageSrc": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-pump-soap",
+    "iconColor": "#e8d71e"
+  },
+  {
+    "id": 11,
+    "description": "Дитячі товари",
+    "imageSrc": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-children",
+    "iconColor": "#16acea"
+  },
+  {
+    "id": 12,
+    "description": "Зоотовари",
+    "imageSrc": "https://images.pexels.com/photos/2226006/pexels-photo-2226006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "faClass": "fa-solid fa-paw",
+    "iconColor": "#4203c9"
+  }
+]
