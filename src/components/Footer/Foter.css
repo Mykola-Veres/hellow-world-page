@@ -1,0 +1,81 @@
+.footerContainer {
+  background-color: #332f2f;
+  color: whitesmoke;
+}
+
+.footerDataContainer {
+  margin: 0 auto;
+  max-width: 800px;
+  width: 100%;
+  min-width: 320px;
+  padding: 0px 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footerDataContainer h2 {
+  font-weight: bold;
+  padding: 10px 0px;
+}
+
+.socialLinksContainer {
+  width: 25%;
+  min-width: 170px;
+  padding: 10px 0px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.socialLinksContainer > ul {
+  display: flex;
+  gap: 5px;
+}
+
+.socialLinksContainer a {
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.facebook {
+  background-color: #506098;
+  color: white;
+}
+.instagram {
+  background: linear-gradient(
+    45deg,
+    #ffb700 14.65%,
+    #ff6800 31.68%,
+    #cb217d 54.72%,
+    #7e00aa 85.35%
+  );
+  color: white;
+}
+.youtube {
+  background-color: #e90000;
+  color: white;
+}
+.viber {
+  background-color: #7d3daf;
+  color: white;
+}
+.telegram {
+  background-color: #08c;
+  color: white;
+}
+
+.companyLinksContainer {
+  width: 75%;
+  padding: 10px 0px 10px 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.companyLinksContainer > div {
+  width: 50%;
+}
+
+.companyLinksContainer li {
+  margin-bottom: 5px;
+}
