@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+.headerContainer {
+  margin: 0 auto;
+  background-color: #221f1f;
+  color: whitesmoke;
+  border: 1px solid #fff;
+  user-select: none;
+}
+
+.headerDataContainer {
+  margin: 0 auto;
+  max-width: 800px;
+  width: 100%;
+  min-width: 320px;
+  padding: 20px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.headerContainer ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.headerContainer li:first-child {
+  width: 25%;
+}
+
+.headerContainer li:nth-last-child(2) {
+  margin-left: auto;
+}
+
+.headerContainer li:nth-child(5) {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.headerContainer li:last-child {
+  font-size: 1.5em;
+}
+
+.headerContainer a {
+  border-bottom: 1px solid #221f1f;
+  transition: 0.4s all;
+}
+
+.headerContainer a:hover {
+  text-shadow: 0px 0px 5px wheat;
+  /* border-bottom: 1px solid wheat; */
+}
+
+.logo {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5em;
+}
+
+.headerContainer a {
+  padding: 10px;
+}
+
+.headerContainer li:last-child a {
+  display: flex;
+  flex-direction: column;
+}
+
+.headerContainer li:last-child span {
+  font-size: 0.6em;
+  padding: 7px 7px 0;
+}
