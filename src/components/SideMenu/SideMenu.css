@@ -1,0 +1,37 @@
+.sideNavContainer {
+  padding: 20px 0;
+  width: 25%;
+}
+
+.sideNavContainer ul {
+  border-right: 1px solid lightgray;
+}
+
+.sideNavContainer ul:first-child {
+  padding-bottom: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+.sideNavContainer ul:last-child {
+  padding-top: 10px;
+}
+
+.sideNavContainer a {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  user-select: none;
+  transition: all 0.2s;
+}
+
+.sideNavContainer a:hover {
+  box-shadow: 0 0 10px 0 lightgrey;
+  color: grey;
+}
+
+.iconContainer {
+  width: 20%;
+  text-align: center;
+  color: lightgrey;
+  padding-right: 5px;
+}
