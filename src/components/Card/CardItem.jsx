@@ -1,4 +1,6 @@
-function CategoryItem({ category: { description, imageSrc } }) {
+import './Card.css';
+
+function CardItem({ category: { description, imageSrc } }) {
   return (
     <li>
       <a href="#">
@@ -11,4 +13,4 @@ function CategoryItem({ category: { description, imageSrc } }) {
   );
 }
 
-export default CategoryItem;
+export default CardItem;
