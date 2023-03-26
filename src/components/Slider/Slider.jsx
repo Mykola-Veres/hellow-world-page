@@ -20,11 +20,11 @@ function Slider() {
     };
   });
 
-  useEffect(() => {
-    axios('https://8nv4v2.sse.codesandbox.io/slides').then(data => {
-      setSlides(data.data);
-    });
-  }, []);
+  // useEffect(() => {
+  //   axios('https://8nv4v2.sse.codesandbox.io/slides').then(data => {
+  //     setSlides(data.data);
+  //   });
+  // }, []);
 
   function prevSlide() {
     if (currentSlide === 0) {
