@@ -1,4 +1,4 @@
-import axios from 'axios';
+// import axios from 'axios';
 import { useEffect, useState } from 'react';
 import './Slider.css';
 
@@ -10,7 +10,7 @@ const defaultSlides = [
 ];
 
 function Slider() {
-  const [slides, setSlides] = useState(defaultSlides);
+  const [slides] = useState(defaultSlides);
   const [currentSlide, setCurrentSlide] = useState(0);
 
   useEffect(() => {
